@@ -6,7 +6,6 @@
 
 body{
   margin: 0;
-  font-family: 'Rye', ;
   font-size: 18px;
   color:black;
   line-height: 1.6;
@@ -28,10 +27,12 @@ body{
 #welcome h1{
   font-size: 50px;
   line-height: 1.2;
+  font-family: 'Rye', ;
 }
 
 #welcome p{
   font-size: 20px;
+  font-family: 'Rye', ;
 }
 
 #welcome .btn{
@@ -46,8 +47,8 @@ body{
 }
 
 #welcome .btn:hover{
-  background: gray;
-  color: #fff;
+  background: rgb(112, 3, 3);
+  color: rgb(50, 5, 255);
 }
 
 .img{
@@ -112,6 +113,6 @@ body{
 .add-info {
  text-align: center;
 }
-#pizza-ria{
+#pizza-in{
  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
