@@ -8,4 +8,6 @@
 - BOOTSTRAP
 - JAVASCRIPT
 - JQUERY
+## Author
+- Kimani Evan
 
