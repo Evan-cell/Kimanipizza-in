@@ -88,10 +88,12 @@ body{
   text-align: center;
   display: inline-block;
   font-size: 70px;
+  color: chartreuse;
 }
 @media only screen and (min-width: 600px) {
   .container-fluid {
     width: 95%;
+    
   }
 }
 
@@ -138,10 +140,12 @@ body{
 }
 .response {
  text-align: center;
+ color: indigo;
 }
 .add-info {
  text-align: center;
 }
 #pizza-in{
  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ color: gold;
 }
