@@ -10,4 +10,6 @@
 - JQUERY
 ## Author
 - Kimani Evan
+## Contact
+Email:malcomchege0582@gmail.com
 
