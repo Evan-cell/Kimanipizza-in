@@ -12,6 +12,8 @@
 - Kimani Evan
 ## Contact
 Email:malcomchege0582@gmail.com
+## Bdd
+The website is basically to make it easier for one to order pizzza easily
 ## License and Copyright Information
 MIT License
 
